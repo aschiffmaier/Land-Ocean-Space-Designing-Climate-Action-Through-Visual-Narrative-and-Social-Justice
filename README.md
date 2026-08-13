@@ -3,8 +3,12 @@
 Design research project exploring climate action through visual narrative and social justice.
 
 ## Contents
+- License - Apache 2.0
 - Research Poster
 - Design Process Booklet
+- Ikigai Gif Animation
+- Ikigai Hero Image
+- Ikigai Presentation Image
 
 ## References
 Geiger, B. (2017, January 24). Meet our trashy “technosphere”. Science News Explores. 
